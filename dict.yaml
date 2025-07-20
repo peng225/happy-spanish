@@ -1,0 +1,52 @@
+- original: ir
+  inJapanese: 行く
+  present:
+  - voy
+  - vas
+  - va
+  - vamos
+  - vais
+  - van
+  pastParticiple:
+  dottedPast:
+  - fui
+  - fuiste
+  - fue
+  - fuimos
+  - fuisteis
+  - fueron
+  linearPast:
+  - iba
+  - ibas
+  - iba
+  - íbamos
+  - ibais
+  - iban
+  presentParticiple: yendo
+  future:
+- original: venir
+  inJapanese: 来る
+  present:
+  - vengo
+  - vienes
+  - viene
+  - 
+  - 
+  - vienen
+  pastParticiple:
+  dottedPast:
+  - vine
+  - viniste
+  - vino
+  - vinimos
+  - vinisteis
+  - vinieron
+  linearPast:
+  presentParticiple: viniendo
+  future:
+  - vendré
+  - vendrás
+  - vendrá
+  - vendremos
+  - vendréis
+  - vendrán

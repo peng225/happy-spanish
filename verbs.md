@@ -1,0 +1,57 @@
+# 不規則動詞の活用
+## ir
+- 意味: 行く
+- 現在形
+  - (yo) voy
+  - (tú) vas
+  - (él/ella/usted) va
+  - (nosotoros/as) vamos
+  - (vosotoros/as) vais
+  - (ellos/ellas/ustedes) van
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) fui
+  - (tú) fuiste
+  - (él/ella/usted) fue
+  - (nosotoros/as) fuimos
+  - (vosotoros/as) fuisteis
+  - (ellos/ellas/ustedes) fueron
+- 線過去
+  - (yo) iba
+  - (tú) ibas
+  - (él/ella/usted) iba
+  - (nosotoros/as) íbamos
+  - (vosotoros/as) ibais
+  - (ellos/ellas/ustedes) iban
+- 現在分詞
+  - yendo
+- 未来系
+  - (skip)
+## venir
+- 意味: 来る
+- 現在形
+  - (yo) vengo
+  - (tú) vienes
+  - (él/ella/usted) viene
+  - (ellos/ellas/ustedes) vienen
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) vine
+  - (tú) viniste
+  - (él/ella/usted) vino
+  - (nosotoros/as) vinimos
+  - (vosotoros/as) vinisteis
+  - (ellos/ellas/ustedes) vinieron
+- 線過去
+  - (skip)
+- 現在分詞
+  - viniendo
+- 未来系
+  - (yo) vendré
+  - (tú) vendrás
+  - (él/ella/usted) vendrá
+  - (nosotoros/as) vendremos
+  - (vosotoros/as) vendréis
+  - (ellos/ellas/ustedes) vendrán
