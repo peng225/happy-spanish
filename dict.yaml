@@ -50,3 +50,50 @@
   - vendremos
   - vendréis
   - vendrán
+- original: tener
+  inJapanese: 持っている
+  present:
+  - tengo
+  - tienes
+  - tiene
+  - 
+  - 
+  - tienen
+  pastParticiple:
+  dottedPast:
+  - tuve
+  - tuviste
+  - tuvo
+  - tuvimos
+  - tuvisteis
+  - tuvieron
+  linearPast:
+  presentParticiple:
+  future:
+  - tendré
+  - tendrás
+  - tendrá
+  - tendremos
+  - tendréis
+  - tendrán
+- original: hacer
+  inJapanese: する
+  present:
+  - hago
+  pastParticiple: hecho
+  dottedPast:
+  - hice
+  - hiciste
+  - hizo
+  - hicimos
+  - hicisteis
+  - hicieron
+  linearPast:
+  presentParticiple:
+  future:
+  - haré
+  - harás
+  - hará
+  - haremos
+  - haréis
+  - harán

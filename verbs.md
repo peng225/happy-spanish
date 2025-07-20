@@ -55,3 +55,54 @@
   - (nosotoros/as) vendremos
   - (vosotoros/as) vendréis
   - (ellos/ellas/ustedes) vendrán
+## tener
+- 意味: 持っている
+- 現在形
+  - (yo) tengo
+  - (tú) tienes
+  - (él/ella/usted) tiene
+  - (ellos/ellas/ustedes) tienen
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) tuve
+  - (tú) tuviste
+  - (él/ella/usted) tuvo
+  - (nosotoros/as) tuvimos
+  - (vosotoros/as) tuvisteis
+  - (ellos/ellas/ustedes) tuvieron
+- 線過去
+  - (skip)
+- 現在分詞
+  - (skip)
+- 未来系
+  - (yo) tendré
+  - (tú) tendrás
+  - (él/ella/usted) tendrá
+  - (nosotoros/as) tendremos
+  - (vosotoros/as) tendréis
+  - (ellos/ellas/ustedes) tendrán
+## hacer
+- 意味: する
+- 現在形
+  - (yo) hago
+- 過去分詞
+  - hecho
+- 点過去
+  - (yo) hice
+  - (tú) hiciste
+  - (él/ella/usted) hizo
+  - (nosotoros/as) hicimos
+  - (vosotoros/as) hicisteis
+  - (ellos/ellas/ustedes) hicieron
+- 線過去
+  - (skip)
+- 現在分詞
+  - (skip)
+- 未来系
+  - (yo) haré
+  - (tú) harás
+  - (él/ella/usted) hará
+  - (nosotoros/as) haremos
+  - (vosotoros/as) haréis
+  - (ellos/ellas/ustedes) harán
