@@ -97,3 +97,147 @@
   - haremos
   - haréis
   - harán
+- original: querer
+  inJapanese: したい、欲しい
+  present:
+  - quiero
+  - quieres
+  - quiere
+  - 
+  - 
+  - quieren
+  pastParticiple:
+  dottedPast:
+  - quise
+  - quisiste
+  - quiso
+  - quisimos
+  - quisisteis
+  - quisieron
+  linearPast:
+  presentParticiple:
+  future:
+  - querré
+  - querrás
+  - querrá
+  - querremos
+  - querréis
+  - querrán
+- original: poder
+  inJapanese: ～できる
+  present:
+  - puedo
+  - puedes
+  - puede
+  - 
+  - 
+  - pueden
+  pastParticiple:
+  dottedPast:
+  - pude
+  - pudiste
+  - pudo
+  - pudimos
+  - pudisteis
+  - pudieron
+  linearPast:
+  presentParticiple: pudiendo
+  future:
+  - podré
+  - podrás
+  - podrá
+  - podremos
+  - podréis
+  - podrán
+- original: saber
+  inJapanese: 知っている
+  present:
+  - sé
+  pastParticiple:
+  dottedPast:
+  - supe
+  - supiste
+  - supo
+  - supimos
+  - supisteis
+  - supieron
+  linearPast:
+  presentParticiple:
+  future:
+  - sabré
+  - sabrás
+  - sabrá
+  - sabremos
+  - sabréis
+  - sabrán
+- original: jugar
+  inJapanese: （子どもが）遊ぶ、（スポーツを）する
+  present:
+  - juego
+  - juegas
+  - juega
+  - 
+  - 
+  - juegan
+  pastParticiple:
+  dottedPast:
+  - jugué
+  linearPast:
+  presentParticiple:
+  future:
+- original: caer
+  inJapanese: 落ちる
+  present:
+  - caigo
+  pastParticiple: caído
+  dottedPast:
+  - 
+  - caíste
+  - cayó
+  - caímos
+  - caísteis
+  - cayeron
+  linearPast:
+  presentParticiple: cayendo
+  future:
+- original: decir
+  inJapanese: 言う
+  present:
+  - digo
+  - dices
+  - dice
+  - 
+  - 
+  - dicen
+  pastParticiple: dicho
+  dottedPast:
+  - dije
+  - dijiste
+  - dijo
+  - dijimos
+  - dijisteis
+  - dijeron
+  linearPast:
+  presentParticiple: diciendo
+  future:
+  - diré
+  - dirás
+  - dirá
+  - diremos
+  - diréis
+  - dirán
+- original: dar
+  inJapanese: 与える
+  present:
+  - doy
+  pastParticiple:
+  dottedPast:
+  - di
+  - diste
+  - dio
+  - dimos
+  - disteis
+  - dieron
+  linearPast:
+  presentParticiple:
+  future:

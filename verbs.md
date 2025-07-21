@@ -106,3 +106,162 @@
   - (nosotoros/as) haremos
   - (vosotoros/as) haréis
   - (ellos/ellas/ustedes) harán
+## querer
+- 意味: したい、欲しい
+- 現在形
+  - (yo) quiero
+  - (tú) quieres
+  - (él/ella/usted) quiere
+  - (ellos/ellas/ustedes) quieren
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) quise
+  - (tú) quisiste
+  - (él/ella/usted) quiso
+  - (nosotoros/as) quisimos
+  - (vosotoros/as) quisisteis
+  - (ellos/ellas/ustedes) quisieron
+- 線過去
+  - (skip)
+- 現在分詞
+  - (skip)
+- 未来系
+  - (yo) querré
+  - (tú) querrás
+  - (él/ella/usted) querrá
+  - (nosotoros/as) querremos
+  - (vosotoros/as) querréis
+  - (ellos/ellas/ustedes) querrán
+## poder
+- 意味: ～できる
+- 現在形
+  - (yo) puedo
+  - (tú) puedes
+  - (él/ella/usted) puede
+  - (ellos/ellas/ustedes) pueden
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) pude
+  - (tú) pudiste
+  - (él/ella/usted) pudo
+  - (nosotoros/as) pudimos
+  - (vosotoros/as) pudisteis
+  - (ellos/ellas/ustedes) pudieron
+- 線過去
+  - (skip)
+- 現在分詞
+  - pudiendo
+- 未来系
+  - (yo) podré
+  - (tú) podrás
+  - (él/ella/usted) podrá
+  - (nosotoros/as) podremos
+  - (vosotoros/as) podréis
+  - (ellos/ellas/ustedes) podrán
+## saber
+- 意味: 知っている
+- 現在形
+  - (yo) sé
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) supe
+  - (tú) supiste
+  - (él/ella/usted) supo
+  - (nosotoros/as) supimos
+  - (vosotoros/as) supisteis
+  - (ellos/ellas/ustedes) supieron
+- 線過去
+  - (skip)
+- 現在分詞
+  - (skip)
+- 未来系
+  - (yo) sabré
+  - (tú) sabrás
+  - (él/ella/usted) sabrá
+  - (nosotoros/as) sabremos
+  - (vosotoros/as) sabréis
+  - (ellos/ellas/ustedes) sabrán
+## jugar
+- 意味: （子どもが）遊ぶ、（スポーツを）する
+- 現在形
+  - (yo) juego
+  - (tú) juegas
+  - (él/ella/usted) juega
+  - (ellos/ellas/ustedes) juegan
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) jugué
+- 線過去
+  - (skip)
+- 現在分詞
+  - (skip)
+- 未来系
+  - (skip)
+## caer
+- 意味: 落ちる
+- 現在形
+  - (yo) caigo
+- 過去分詞
+  - caído
+- 点過去
+  - (tú) caíste
+  - (él/ella/usted) cayó
+  - (nosotoros/as) caímos
+  - (vosotoros/as) caísteis
+  - (ellos/ellas/ustedes) cayeron
+- 線過去
+  - (skip)
+- 現在分詞
+  - cayendo
+- 未来系
+  - (skip)
+## decir
+- 意味: 言う
+- 現在形
+  - (yo) digo
+  - (tú) dices
+  - (él/ella/usted) dice
+  - (ellos/ellas/ustedes) dicen
+- 過去分詞
+  - dicho
+- 点過去
+  - (yo) dije
+  - (tú) dijiste
+  - (él/ella/usted) dijo
+  - (nosotoros/as) dijimos
+  - (vosotoros/as) dijisteis
+  - (ellos/ellas/ustedes) dijeron
+- 線過去
+  - (skip)
+- 現在分詞
+  - diciendo
+- 未来系
+  - (yo) diré
+  - (tú) dirás
+  - (él/ella/usted) dirá
+  - (nosotoros/as) diremos
+  - (vosotoros/as) diréis
+  - (ellos/ellas/ustedes) dirán
+## dar
+- 意味: 与える
+- 現在形
+  - (yo) doy
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) di
+  - (tú) diste
+  - (él/ella/usted) dio
+  - (nosotoros/as) dimos
+  - (vosotoros/as) disteis
+  - (ellos/ellas/ustedes) dieron
+- 線過去
+  - (skip)
+- 現在分詞
+  - (skip)
+- 未来系
+  - (skip)
