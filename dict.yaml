@@ -252,3 +252,29 @@
   linearPast:
   presentParticiple:
   future:
+- original: ser
+  inJapanese: ～である
+  present:
+  - soy
+  - eres
+  - es
+  - somos
+  - sois
+  - son
+  pastParticiple:
+  dottedPast:
+  - fui
+  - fuiste
+  - fue
+  - fuimos
+  - fuisteis
+  - fueron
+  linearPast:
+  - era
+  - eras
+  - era
+  - éramos
+  - erais
+  - eran
+  presentParticiple:
+  future:

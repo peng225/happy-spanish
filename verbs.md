@@ -280,3 +280,32 @@
   - (skip)
 - 未来系
   - (skip)
+## ser
+- 意味: ～である
+- 現在形
+  - (yo) soy
+  - (tú) eres
+  - (él/ella/usted) es
+  - (nosotoros/as) somos
+  - (vosotoros/as) sois
+  - (ellos/ellas/ustedes) son
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) fui
+  - (tú) fuiste
+  - (él/ella/usted) fue
+  - (nosotoros/as) fuimos
+  - (vosotoros/as) fuisteis
+  - (ellos/ellas/ustedes) fueron
+- 線過去
+  - (yo) era
+  - (tú) eras
+  - (él/ella/usted) era
+  - (nosotoros/as) éramos
+  - (vosotoros/as) erais
+  - (ellos/ellas/ustedes) eran
+- 現在分詞
+  - (skip)
+- 未来系
+  - (skip)
