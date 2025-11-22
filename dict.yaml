@@ -278,3 +278,23 @@
   - eran
   presentParticiple:
   future:
+- original: estar
+  inJapanese: ～である
+  present:
+  - estoy
+  - estás
+  - está
+  - 
+  - 
+  - están
+  pastParticiple:
+  dottedPast:
+  - estuve
+  - estuviste
+  - estuvo
+  - estuvimos
+  - estuvisteis
+  - estuvieron
+  linearPast:
+  presentParticiple:
+  future:

@@ -309,3 +309,25 @@
   - (skip)
 - 未来系
   - (skip)
+## estar
+- 意味: ～である
+- 現在形
+  - (yo) estoy
+  - (tú) estás
+  - (él/ella/usted) está
+  - (ellos/ellas/ustedes) están
+- 過去分詞
+  - (skip)
+- 点過去
+  - (yo) estuve
+  - (tú) estuviste
+  - (él/ella/usted) estuvo
+  - (nosotoros/as) estuvimos
+  - (vosotoros/as) estuvisteis
+  - (ellos/ellas/ustedes) estuvieron
+- 線過去
+  - (skip)
+- 現在分詞
+  - (skip)
+- 未来系
+  - (skip)
