@@ -265,3 +265,18 @@
   - (skip)
 - 未来系
   - (skip)
+## ver
+- 意味: 見る
+- 現在形
+  - (skip)
+- 過去分詞
+  - visto
+- 点過去
+  - (yo) vi
+  - (él/ella/usted) vio
+- 線過去
+  - (skip)
+- 現在分詞
+  - (skip)
+- 未来系
+  - (skip)

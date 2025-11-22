@@ -241,3 +241,14 @@
   linearPast:
   presentParticiple:
   future:
+- original: ver
+  inJapanese: 見る
+  present:
+  pastParticiple: visto
+  dottedPast:
+  - vi
+  - 
+  - vio
+  linearPast:
+  presentParticiple:
+  future:
