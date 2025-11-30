@@ -275,7 +275,12 @@
   - (yo) vi
   - (él/ella/usted) vio
 - 線過去
-  - (skip)
+  - (yo) veía
+  - (tú) veías
+  - (él/ella/usted) veía
+  - (nosotoros/as) veíamos
+  - (vosotoros/as) veíais
+  - (ellos/ellas/ustedes) veían
 - 現在分詞
   - (skip)
 - 未来系
