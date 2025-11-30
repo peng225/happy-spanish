@@ -34,6 +34,13 @@ func init() {
 	}
 }
 
+func printTOC(f io.Writer, words []*Word) {
+	fmt.Fprintf(f, "## 目次\n")
+	for _, word := range words {
+		fmt.Fprintf(f, "- [%s](#%s)\n", word.Original, word.Original)
+	}
+}
+
 func printVerbs(f io.Writer, tense string, verbs []string) {
 	fmt.Fprintf(f, "- %s\n", tense)
 	printedAny := false
@@ -66,6 +73,7 @@ func printAsMarkDown(words []*Word, fileName string) error {
 	defer f.Close()
 
 	fmt.Fprintln(f, "# 不規則動詞の活用")
+	printTOC(f, words)
 	for _, word := range words {
 		fmt.Fprintf(f, "## %s\n", word.Original)
 		fmt.Fprintf(f, "- 意味: %s\n", word.InJapanese)

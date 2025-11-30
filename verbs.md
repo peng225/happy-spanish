@@ -1,4 +1,19 @@
 # 不規則動詞の活用
+## 目次
+- [ir](#ir)
+- [venir](#venir)
+- [tener](#tener)
+- [hacer](#hacer)
+- [querer](#querer)
+- [poder](#poder)
+- [saber](#saber)
+- [jugar](#jugar)
+- [caer](#caer)
+- [decir](#decir)
+- [dar](#dar)
+- [ver](#ver)
+- [ser](#ser)
+- [estar](#estar)
 ## ir
 - 意味: 行く
 - 現在形
